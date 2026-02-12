@@ -10,3 +10,8 @@ Los diferentes trabajos se encuentran organizados en carpetas independientes, ca
 
 **Jorge Esteban Gómez Zuluaga**
 
+## Profesor
+
+**Profesor:** Ingeniero PhD. Jhon Jairo Corredor Franco
+
+
